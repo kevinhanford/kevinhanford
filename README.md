@@ -1,10 +1,9 @@
 <h1>Hi, I'm Kevin! <br/>
 
 <h2>👨‍💻 Software Development Projects:</h2>
-<!--
-- <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
-   [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
+- <b>Caesar Cipher</b> [Caesar Cipher in Python]: https://github.com/kevinhanford/CaesarCipher
 
+<!--
 <h2> 🤳 Connect with me:</h2>
 
 [<img align="left" alt="JoshMadakor | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
